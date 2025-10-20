@@ -28,10 +28,12 @@ Classify consumer complaints into one of four categories:
 - Data Source: Consumer Complaint Database (data.gov)
 
 ### Category Distribution  
-![Category Distribution](images/category_distribution.png)
+![WhatsApp Image 2025-10-20 at 17 06 17_602d97a1](https://github.com/user-attachments/assets/fab918e5-5391-455d-b24e-7cc32fbbfc2a)
+
 
 ### Text Length Analysis  
-![Text Length Analysis](images/text_length_analysis.png)
+![WhatsApp Image 2025-10-20 at 17 06 41_f379eb64](https://github.com/user-attachments/assets/de7cdcfb-c0fe-427b-a79c-c21e455e7d08)
+
 
 ---
 
@@ -46,8 +48,9 @@ Classify consumer complaints into one of four categories:
 - Text Normalization: Clean and standardize text format  
 
 ### Word Cloud Visualization  
-![Word Cloud 1](images/wordcloud_category1.png)  
-![Word Cloud 2](images/wordcloud_category2.png)
+![WhatsApp Image 2025-10-20 at 17 07 50_a970a080](https://github.com/user-attachments/assets/4eba80dd-69cb-41c0-aa8a-a34cdcbb5ffd)
+![WhatsApp Image 2025-10-20 at 17 08 52_daa2394b](https://github.com/user-attachments/assets/2df9192e-3f16-43ed-b504-2448bd8f7a09)
+![WhatsApp Image 2025-10-20 at 17 08 14_d66f69a2](https://github.com/user-attachments/assets/b02b4842-d65f-4385-a6f1-27ab78a8a582)
 
 ---
 
@@ -75,10 +78,11 @@ Classify consumer complaints into one of four categories:
 - Support Vector Machine (SVM) – Maximum margin classifier  
 
 ### Performance Comparison  
-![Model Comparison](images/model_comparison.png)
+![WhatsApp Image 2025-10-20 at 17 09 14_395cd304](https://github.com/user-attachments/assets/dcb248a6-0736-4af1-990d-fe603011d395)
+
 
 ### Training Time Analysis  
-![Training Time](images/training_time.png)
+![WhatsApp Image 2025-10-20 at 17 10 01_e36e7b57](https://github.com/user-attachments/assets/69120843-1ad1-4780-9e52-378f0bdd7973)
 
 ---
 
@@ -89,16 +93,20 @@ Classify consumer complaints into one of four categories:
 - Training Time: 25.02 seconds  
 
 ### Detailed Classification Report  
-![Classification Report](images/classification_report.png)
+![WhatsApp Image 2025-10-20 at 17 11 01_2a544066](https://github.com/user-attachments/assets/1a2cc110-55b4-494c-8bc6-acae6826acad)
+
 
 ### Confusion Matrix  
-![Confusion Matrix](images/confusion_matrix.png)
+![WhatsApp Image 2025-10-20 at 17 11 16_17cac8d8](https://github.com/user-attachments/assets/67c4ef47-ed28-4fe5-9cec-04f12fd8de17)
+
 
 ### Normalized Confusion Matrix  
-![Normalized Confusion Matrix](images/normalized_confusion_matrix.png)
+![WhatsApp Image 2025-10-20 at 17 11 26_83436c88](https://github.com/user-attachments/assets/5b5e9c0b-b303-473c-9554-6ef8f780bf04)
+
 
 ### Prediction Results  
-![Prediction Results](images/prediction_results.png)
+![Uploading WhatsApp Image 2025-10-20 at 17.12.18_6cadc522.jpg…]()
+
 
 ---
 
