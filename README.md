@@ -105,7 +105,8 @@ Classify consumer complaints into one of four categories:
 
 
 ### Prediction Results  
-![Uploading WhatsApp Image 2025-10-20 at 17.12.18_6cadc522.jpg…]()
+![WhatsApp Image 2025-10-21 at 14 48 21_8e8bc259](https://github.com/user-attachments/assets/222e498b-17ea-4f84-a43a-9713f3c119b5)
+
 
 
 ---
